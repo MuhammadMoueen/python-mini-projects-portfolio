@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Bomb",
+        "quantity": 2,
+        "price": 1000.0
+    },
+    {
+        "name": "Toxic Face Wash",
+        "quantity": 40,
+        "price": 670.0
+    }
+]
