@@ -84,6 +84,7 @@ def show_statistics(books):
     
     prices = [book['price'] for book in books]
     
+
     print("\n" + "=" * 60)
     print("STATISTICS")
     print("=" * 60)
@@ -93,6 +94,7 @@ def show_statistics(books):
     print(f"Average Price:    £{sum(prices) / len(prices):.2f}")
     print(f"Total Value:      £{sum(prices):.2f}")
     print("=" * 60)
+    
     
     # Most expensive book
     most_expensive = max(books, key=lambda x: x['price'])
