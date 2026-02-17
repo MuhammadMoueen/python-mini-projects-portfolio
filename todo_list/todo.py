@@ -32,7 +32,7 @@ def add_task(tasks):
     tasks.append(task)
     save_tasks(tasks)
     print("Task added successfully!")
-
+    
 
 def remove_task(tasks):
     show_tasks(tasks)
