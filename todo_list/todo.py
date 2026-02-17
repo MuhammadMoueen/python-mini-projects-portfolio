@@ -34,6 +34,12 @@ def add_task(tasks):
     print("Task added successfully!")
 
 
+
+
+
+
+
+
 def remove_task(tasks):
     show_tasks(tasks)
     if not tasks:
