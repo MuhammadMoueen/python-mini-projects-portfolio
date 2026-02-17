@@ -39,7 +39,6 @@ def add_task(tasks):
 
 
 
-
 def remove_task(tasks):
     show_tasks(tasks)
     if not tasks:
