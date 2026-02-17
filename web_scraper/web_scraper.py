@@ -6,7 +6,6 @@ import csv
 WEBSITE_URL = "https://books.toscrape.com/"
 OUTPUT_FILE = "scraped_books.csv"
 
-
 def scrape_books(url):
     """Scrape book titles and prices from the website."""
     print(f"\nConnecting to {url}...")
