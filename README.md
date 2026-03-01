@@ -6,8 +6,6 @@ A curated collection of Python mini-projects demonstrating fundamental programmi
 
 This repository showcases hands-on Python projects built for learning and skill development. Each project focuses on core programming concepts including object-oriented programming, file I/O, data manipulation, and user interaction.
 
-
-
 ---
 
 ## Projects Overview
