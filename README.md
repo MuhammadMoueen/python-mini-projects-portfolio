@@ -19,6 +19,13 @@ A text-based adventure game where players navigate through rooms, collect items,
 - Inventory management
 - User input handling
 
+
+
+
+
+
+
+
 ---
 
 ### 2. **ATM Machine**
