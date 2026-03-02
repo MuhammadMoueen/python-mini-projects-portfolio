@@ -25,7 +25,6 @@ A text-based adventure game where players navigate through rooms, collect items,
 
 
 
-
 ---
 
 ### 2. **ATM Machine**
