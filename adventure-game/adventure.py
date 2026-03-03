@@ -11,8 +11,6 @@ class Player:
         self.inventory = []
 
 
-
-
 def move_to_room(room):
     print("\nYou are in:", room.name)
     print(room.description)
