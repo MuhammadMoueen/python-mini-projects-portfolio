@@ -7,10 +7,6 @@ class Room:
 
 
 class Player:
-
-
-
-    jhbksdfkw b gbkw
     def __init__(self):
         self.inventory = []
 
