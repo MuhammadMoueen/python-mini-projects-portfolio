@@ -7,6 +7,16 @@ class Room:
 
 
 class Player:
+
+
+
+    jhbksdfkw b gbkw
+     bgogbb wg
+ gobgwbg
+ iwgbg b
+b ibbgs
+b ibgwligb
+b ieb
     def __init__(self):
         self.inventory = []
 
