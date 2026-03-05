@@ -16,7 +16,6 @@ class Player:
  iwgbg b
 b ibbgs
 b ibgwligb
-b ieb
     def __init__(self):
         self.inventory = []
 
