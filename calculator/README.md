@@ -13,8 +13,6 @@ A command-line calculator application built with Python that performs basic arit
 
 ## Requirements
 
-
-
 - Python 3.x
 
 ## Installation
