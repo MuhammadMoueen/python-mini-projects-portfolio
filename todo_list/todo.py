@@ -3,6 +3,13 @@
 FILE_NAME = "tasks.txt"
 
 
+
+
+
+
+
+
+
 def load_tasks():
     try:
         with open(FILE_NAME, "r") as file:
