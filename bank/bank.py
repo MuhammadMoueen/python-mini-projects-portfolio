@@ -2,14 +2,6 @@
 
 FILE_NAME = "accounts.txt"
 
-
-
-
-
-
-
-
-
 class BankAccount:
     def __init__(self, name, balance=0):
         self.name = name
